@@ -1,0 +1,12 @@
+#patreonButton {
+    margin-left: 40%;
+    font-size: 20;
+}
+.maintext {
+    background-color: lightblue;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 3px;
+    border-style: outset;
+    font-size: 20;
+}
